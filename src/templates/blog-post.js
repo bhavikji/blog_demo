@@ -24,7 +24,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           className="cover mt-4"
           alt={post.frontmatter.title}
-          fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
+          fluid={post.frontmatter.featuredImage?.childImageSharp.fluid}
         />
         <p
           style={{
