@@ -1,6 +1,7 @@
 ---
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
+featuredImage: ../assets/654311ef-f4f0-432c-ae7e-68e1f2c22e01.jpeg
 ---
 
 This is my first post on my new fake blog! How exciting!

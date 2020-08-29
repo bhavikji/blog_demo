@@ -3,6 +3,7 @@ path: awesome-images
 date: 2020-06-06T01:22:55.506Z
 title: Awesome Images
 description: Fix for gatsby-plugin-mdx and gatsby-remark-images
+featuredImage: ../assets/654311ef-f4f0-432c-ae7e-68e1f2c22e01.jpeg
 ---
 ![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
 

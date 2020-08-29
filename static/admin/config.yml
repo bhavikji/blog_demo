@@ -13,6 +13,7 @@ collections:
     create: true
     fields:
       - { name: path, label: Path }
+      - { name: featuredImage, label: Featured Image, widget: image }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: description, label: Description }
